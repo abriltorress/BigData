@@ -1,4 +1,4 @@
-# Big Data
+# Big Data 
 > *Se refiere a grandes volúmenes de datos que se generan a alta velocidad y en diversas formas. Estos datos son tan masivos y complejos que requieren tecnologías avanzadas para capturarlos, almacenarlos, analizarlos y visualizarlos. Big Data es fundamental en la toma de decisiones en diversas industrias, desde la salud hasta las finanzas y el marketing.*
 ## "5 V": Volumen, Velocidad, Variedad, Veracidad y Valor
 - ***Volumen :*** e refiere a la cantidad masiva de datos generados y recopilados. Hoy en día, se producen enormes cantidades de datos provenientes de diferentes fuentes, como redes sociales, sensores, transacciones financieras, dispositivos móviles, entre otros.
